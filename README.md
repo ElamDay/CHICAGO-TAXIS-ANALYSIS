@@ -42,6 +42,7 @@ PROYECTO 8
 │
 ├── Proyecto8.ipynb
 ├── README.md
+├── requirements.txt
 └── DATA
     ├── moved_project_sql_result_01.csv
     ├── moved_project_sql_result_04.csv
